@@ -1,10 +1,10 @@
-                                                                            IGN: Axiid
-                                                                        Telegram: @imaxiid
+                                                                 IGN: Axiid
+                                                             Telegram: @imaxiid
 
-                                                                      Java Experience: 1 year
+                                                           Java Experience: 1 year
 
-                                                                            CEO of KTG
-                                                                     Developer on AJ Studios it
+                                                                 CEO of KTG
+                                                          Developer on AJ Studios it
 
 <!--
 **Axiid/Axiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
