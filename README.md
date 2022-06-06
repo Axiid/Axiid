@@ -32,18 +32,3 @@ Social e linguaggi </h2>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-<div align="center">
-	
-
-![Statistiche di Axiid](https://github-readme-stats.vercel.app/api/wakatime?username=Axiid&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-</p>
